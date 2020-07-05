@@ -1,3 +1,3 @@
 # Peregine-bot
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8JROILTlsow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/8JROILTlsow/0.jpg)](https://www.youtube.com/watch?v=8JROILTlsow)
