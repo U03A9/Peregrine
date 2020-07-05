@@ -1,0 +1,9 @@
+Hybrid Analysis Results:
+    VM Architecture: {}
+
+    URL Scanned: {}
+    Submission Time: {}
+    Total AV Detections: {}
+    Analysis Verdict: {}
+
+    Threat Score: {}
